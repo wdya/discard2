@@ -25,7 +25,6 @@ input[type='checkbox']:checked + label:after {
 
 /*STYLING THE LEFT AND RIGHT TABLES*/
 table.sides {
-	border: 4px solid black;
 	border-collapse: collapse;
 	table-layout: fixed;
 }
